@@ -6,4 +6,6 @@ coach_gt/
 submissions/
 out/
 *.zip
+!daovungocanh-front.zip
+!daovungocanh-fisheye.zip
 .env
